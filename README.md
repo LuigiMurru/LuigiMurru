@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuigiMurru
 - 👀 I’m interested in Computer Engineering, music and pizza 👀
-- 🌱 I’m currently learning Computer Engineering and a method to live in happiness
-- 💞️ I’m looking to collaborate on everybody can buy me a pizza and a ice cold beer
+- 🌱 I’m currently learning Computer Engineering and I'm searching for a method to live happily
+- 💞️ I’m looking to collaborate with everybody can buy me a pizza and a ice cold beer
 - 📫 How to reach me? Send me a mail to giggimurru@gmail.com. Brilliant, uh?
 
 <!---
