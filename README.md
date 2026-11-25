@@ -1,14 +1,14 @@
 ### Hi, I'm Luigi
 Just a regular university student with a strong nerd streak for data, code, and anything powered by Python.
 
-### About Me
+### 👨‍💻 About Me
 
-- Exploring **Statistics, Data Science, and Machine Learning**.
-- I spend way too much time writing **Python** scripts, training **deep learning** models, and hunting down weird patterns in messy datasets.
-- Lately working on interactive **Streamlit** dashboards, statistical anomaly detection, and computer vision experiments.
-- Huge nerd at heart — fueled by curiosity, clean plots, and late-night debugging sessions.
+- 🎓 Exploring **Statistics, Data Science, and Machine Learning**.
+- 🧠 I spend way too much time writing **Python** scripts, training **deep learning** models, and hunting down weird patterns in messy datasets.
+- 📊 Lately working on interactive **Streamlit** dashboards, statistical anomaly detection, and computer vision experiments.
+- 🤓 Huge nerd at heart — fueled by curiosity, clean plots, and late-night debugging sessions.
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,35 +28,12 @@ Just a regular university student with a strong nerd streak for data, code, and 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
-```text
-🐱 My GitHub Data
-
-    📦 50.1 MB Used in GitHub's Storage
-
-    🏆 108 Contributions in the Year 2026
-
-    🚫 Not Opted to Hire
-
-    📜 7 Public Repositories
-
-    🔑 1 Private Repositories
-
-I Mostly Code in Jupyter Notebook
-
-Jupyter Notebook         3 repos             ███████████░░░░░░░░░░░░░░   42.86 %
-C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-
-Last Updated on 25/11/2026 11:39:09 UTC
-```
 <!--END_SECTION:waka-->
 
-### Connect with Me
+### 🔗 Connect with Me
 
 Always down to chat about data, code, or nerd stuff:
 
