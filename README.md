@@ -31,6 +31,29 @@ Just a regular university student with a strong nerd streak for data, code, and 
 ### 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
+```text
+🐱 My GitHub Data
+
+    📦 50.1 MB Used in GitHub's Storage
+
+    🏆 109 Contributions in the Year 2026
+
+    🚫 Not Opted to Hire
+
+    📜 7 Public Repositories
+
+    🔑 1 Private Repositories
+
+I Mostly Code in Jupyter Notebook
+
+Jupyter Notebook         3 repos             ███████████░░░░░░░░░░░░░░   42.86 %
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+
+Last Updated on 25/11/2026 11:40:59 UTC
+```
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect with Me
