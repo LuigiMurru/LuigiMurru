@@ -2,9 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Aggiorna ogni giorno alle 00:00 UTC
     - cron: '0 0 * * *'
-  # Permette l'avvio manuale con un clic
   workflow_dispatch:
 
 permissions:
@@ -18,7 +16,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TARGET_BRANCH: main
+          WAKATIME_API_KEY: "dummy"
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_UPDATED_DATE: "True"
@@ -31,3 +29,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
